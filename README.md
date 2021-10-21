@@ -1,0 +1,2 @@
+# CircuitosElectronicosRealidadAumentada
+Proyecto de Integración Ingeniería Electrónica UAM Azcapotzalco
