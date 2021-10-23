@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Simulation_SPICE)(type Legacy)(uri "C:/Users/ferda/Desktop/Proyecto Terminal/Librerias extra kicad/Simulation_SPICE/Simulation_SPICE.lib")(options "")(descr ""))
+  (lib (name controlled-sources-2-cache)(type Legacy)(uri "C:/Users/ferda/Desktop/Proyecto Terminal/Librerias extra kicad/controlled-sources/controlled-sources-2-cache.lib")(options "")(descr ""))
+  (lib (name controlled-sources-2-rescue)(type Legacy)(uri "C:/Users/ferda/Desktop/Proyecto Terminal/Librerias extra kicad/controlled-sources/controlled-sources-2-rescue.lib")(options "")(descr ""))
+  (lib (name ngspice-sources)(type Legacy)(uri "C:/Users/ferda/Desktop/Proyecto Terminal/Librerias extra kicad/controlled-sources/ngspice-sources.lib")(options "")(descr ""))
+)
