@@ -33,7 +33,7 @@ Por cada circuito se muestra lo siguiente:
 # Requisitos
 
 
-Instalar Python 3. 
+Instalar Python 3.8. 
 
 Instalar los siguientes paquetes: 
 
