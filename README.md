@@ -4,6 +4,7 @@ Proyecto de Integración Ingeniería Electrónica UAM Azcapotzalco
 
 Marzo - Octubre 2021
 
+![Graficas sobre circuito](https://github.com/ferdan/CircuitosElectronicosRealidadAumentada/blob/main/03%20Amplificador%20de%20una%20etapa%20(c)/Capturas%20de%20pantalla/AR02.png?raw=true)
 
 # Descripción
 
@@ -37,13 +38,14 @@ Instalar Python 3.8.
 
 Instalar los siguientes paquetes: 
 
- - cv2 (opencv)
- - engineering notation
+ - cv2 (opencv-contrib)
+ - engineering-notation
  - imutils
  - matplotlib
  - numpy
  - pyserial
  - serial
+ - graphviz
 
 Instalar Arduino IDE. 
 
